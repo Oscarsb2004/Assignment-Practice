@@ -13,13 +13,16 @@ editor: visual
 * CrossRef
 * LAC
 * CPIDAC
+* Statistics Canada
 
 ## Persistent Identifiers
 
 * PID
 * ORCID
 * DOI
+# A DOI, Digital Object Identifier is a perstistent identifier alphanumeric string. Used as an "address" for locating digital materials like journal articles and datasets
 * ISSN
+
 
 ## Concepts
 * Open Access
